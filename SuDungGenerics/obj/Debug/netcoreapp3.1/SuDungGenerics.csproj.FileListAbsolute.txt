@@ -1,0 +1,13 @@
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\bin\Debug\netcoreapp3.1\SuDungGenerics.exe
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\bin\Debug\netcoreapp3.1\SuDungGenerics.deps.json
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\bin\Debug\netcoreapp3.1\SuDungGenerics.runtimeconfig.json
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\bin\Debug\netcoreapp3.1\SuDungGenerics.runtimeconfig.dev.json
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\bin\Debug\netcoreapp3.1\SuDungGenerics.dll
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\bin\Debug\netcoreapp3.1\SuDungGenerics.pdb
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\obj\Debug\netcoreapp3.1\SuDungGenerics.csprojAssemblyReference.cache
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\obj\Debug\netcoreapp3.1\SuDungGenerics.AssemblyInfoInputs.cache
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\obj\Debug\netcoreapp3.1\SuDungGenerics.AssemblyInfo.cs
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\obj\Debug\netcoreapp3.1\SuDungGenerics.csproj.CoreCompileInputs.cache
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\obj\Debug\netcoreapp3.1\SuDungGenerics.dll
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\obj\Debug\netcoreapp3.1\SuDungGenerics.pdb
+C:\Users\ronng\source\repos\SuDungGenerics\SuDungGenerics\obj\Debug\netcoreapp3.1\SuDungGenerics.genruntimeconfig.cache
